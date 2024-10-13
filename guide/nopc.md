@@ -54,10 +54,7 @@ partition $
 
 ### Flashing WinInstaller
 - In TWRP, select **Install** and then locate **WinInstaller.zip** and flash it.
-- Wait untill all processes complete and your device boots back into Android. This will take around 10-15 minutes.
-
-### Booting into Windows
-- Ppen the WOA Helper app and press **QUICKBOOT TO WINDOWS**.
+- Wait untill all processes complete and your device boots back tl windows setup. This will take around 10-15 minutes.
 > [!Tip]
 > If you wish to skip the Microsoft Account login, press the **I don't have internet** button in the WiFi page, then when prompted, press the **Continue with limited setup** button.
 >
